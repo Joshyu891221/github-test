@@ -1,1 +1,2 @@
 modified for git remote branch 
+remote & local master 3 ways merge
