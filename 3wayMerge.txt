@@ -1,0 +1,1 @@
+test remote and local master 3 ways merge
